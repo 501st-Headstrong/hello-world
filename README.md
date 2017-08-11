@@ -1,7 +1,7 @@
 # hello-world
-Just another repository
+#Just another repository
 
-This is me practicing on GitHub for the first time
+#This is me practicing on GitHub for the first time
 
 import javax.swing.JOptionPane
 
